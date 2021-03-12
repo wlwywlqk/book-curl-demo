@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+}
+
+#page {
+  position: absolute;
+  border: 1px solid #eeeeee;
+}
+
+.back {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  background: orange;
+  top: 100px;
+}
