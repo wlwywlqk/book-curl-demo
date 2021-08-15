@@ -1,5 +1,5 @@
 import "./styles.css";
-const IMG_PAGE = 'https://github.com/wlwywlqk/book-curl-demo/blob/main/src/page.png?raw=true';
+const IMG_PAGE = 'https://img.wlwywlqk.top/page.png';
 
 const $canvas = document.querySelector("#page");
 
